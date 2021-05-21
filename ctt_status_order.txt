@@ -1,0 +1,4 @@
+status order = 0
+status diproses = 1
+status dikirim = 2
+status selesai = 3
